@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Javascript And Backend
 - 📫 How to reach me: Telegram: @HyperTMLanguage
 - 👶 I'm newbie in Coding
-- 🏳️ Currently i'm in Uzbekistan But My Nationality is Russia
 - 🐫 And Yes i Just LOVE Camel Case!
