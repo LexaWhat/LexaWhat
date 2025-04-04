@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LexaWhatt or Said Rakhimov
 - 👀 I’m interested in Minecraft Modding, Java & Rust
-- 🌱 I’m currently learning Java & Rust
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: Telegram: @HyperTMLanguage
 - 👶 I'm newbie in Coding
 - 🐫 And Yes i Just LOVE Camel Case!
